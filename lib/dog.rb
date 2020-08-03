@@ -1,1 +1,9 @@
-calss radio_button_tagen
+class Dog
+end
+
+fido=Dog.new
+
+snoopy=Dog.new
+
+lassie=Dog.new
+
